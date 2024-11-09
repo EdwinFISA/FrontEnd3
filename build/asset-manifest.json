@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5e461de.css",
+    "main.js": "/static/js/main.dbd50895.js",
+    "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
+    "static/js/213.7f77f7fe.chunk.js": "/static/js/213.7f77f7fe.chunk.js",
+    "static/js/732.9a305367.chunk.js": "/static/js/732.9a305367.chunk.js",
+    "static/media/food-image.jpg": "/static/media/food-image.9f2713b21ce3f7bfe650.jpg",
+    "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/miralago.jpg": "/static/media/miralago.79753704f8866ac72cec.jpg",
+    "index.html": "/index.html",
+    "main.c5e461de.css.map": "/static/css/main.c5e461de.css.map",
+    "main.dbd50895.js.map": "/static/js/main.dbd50895.js.map",
+    "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map",
+    "213.7f77f7fe.chunk.js.map": "/static/js/213.7f77f7fe.chunk.js.map",
+    "732.9a305367.chunk.js.map": "/static/js/732.9a305367.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5e461de.css",
+    "static/js/main.dbd50895.js"
+  ]
+}
